@@ -1,4 +1,4 @@
-import { sort } from './packageSort'
+import { sort } from './sort'
 
 const dataProvider = [
   [10, 10, 10, 10, 'STANDARD', 'should be cool with happy path variables'],
